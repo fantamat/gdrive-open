@@ -1,4 +1,4 @@
-package com.example.gdriveopener
+package com.palmaf.gdriveopener
 
 import io.flutter.embedding.android.FlutterActivity
 

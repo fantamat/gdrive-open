@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "335291949102",
+    "project_id": "driveopener-26981",
+    "storage_bucket": "driveopener-26981.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335291949102:android:83ec669cbb5db20783bfbf",
+        "android_client_info": {
+          "package_name": "com.palmaf.gdriveopener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335291949102-u6i36110e849q5iekrhkm43aa8dfhugi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.palmaf.gdriveopener",
+            "certificate_hash": "ef4c1674a0a2001340274b355ff535bd38ebb0ce"
+          }
+        },
+        {
+          "client_id": "335291949102-k1aeg9cg5o43f94ejvedt4n0bbikurgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-cv30xR0qpdDDUuW0PpsVeOa9BHnpL5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335291949102-k1aeg9cg5o43f94ejvedt4n0bbikurgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

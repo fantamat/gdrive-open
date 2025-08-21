@@ -10,6 +10,14 @@ dependencies:
   flutter:
     sdk: flutter
 
+  googledrivehandler: ^1.0.7
+  installed_apps: ^1.6.0
+
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  google_sign_in: ^6.3.0
+  shared_preferences: ^2.5.3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
